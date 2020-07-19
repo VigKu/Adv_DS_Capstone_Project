@@ -16,5 +16,7 @@ There are 3 models used for this project:
   2) RandomForest
   3) CNN
   
+  There is also a real time face mask detector to test the models.
+  
  Please refer to the pdf document entitled "AdvDSCourseReadMe" for more details on how to execute all the python notebooks.
  https://github.com/VigKu/Adv_DS_Capstone_Project/blob/master/AdvDSCourseReadMe.pdf

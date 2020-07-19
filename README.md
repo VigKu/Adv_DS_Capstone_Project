@@ -11,10 +11,12 @@ Source of the data: https://makeml.app/datasets/mask
 This data set contains labelled images of 3 classes – Mask worn, Mask worn incorrectly and Mask not worn. 
 The aim is to create a classification model.
 
+OpenCV is used for image processing and real time mask detection.
+
 There are 3 models used for this project:
   1) PCA & SVM
   2) RandomForest
-  3) CNN
+  3) CNN using Keras
   
   There is also a real time face mask detector to test the models.
   

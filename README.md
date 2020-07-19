@@ -17,3 +17,4 @@ There are 3 models used for this project:
   3) CNN
   
  Please refer to the pdf document entitled "AdvDSCourseReadMe" for more details on how to execute all the python notebooks.
+ https://github.com/VigKu/Adv_DS_Capstone_Project/blob/master/AdvDSCourseReadMe.pdf

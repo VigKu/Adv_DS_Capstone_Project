@@ -16,4 +16,4 @@ There are 3 models used for this project:
   2) RandomForest
   3) CNN
   
- FPlease refer to the pdf document entitled "AdvDSCourseReadMe" for more details on how to execute all the python notebooks.
+ Please refer to the pdf document entitled "AdvDSCourseReadMe" for more details on how to execute all the python notebooks.
